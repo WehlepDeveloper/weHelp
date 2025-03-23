@@ -1,23 +1,41 @@
 [
     {
-        "name": "Phone Number +1 805 410 5600 S.",
+        "name": "Phone Number +1 844 744 6241 S.",
         "message": "This is the number for Peacock TV.",
         "profilePic": "https://randomuser.me/api/portraits/women/1.jpg"
     },
     {
-        "name": "Customer Service +1 805 410 5600 P.",
+        "name": "Customer Service +1 844 744 6241 P.",
         "message": "You can reach someone at Peacock customer service.",
         "profilePic": "https://randomuser.me/api/portraits/men/13.jpg"
     },
     {
-        "name": "Customer Service +1 805 410 5600 H.",
+        "name": "Customer Service +1 844 744 6241 H.",
         "message": "I called this number and got help instantly!",
-        "profilePic": "https://randomuser.me/api/portraits/women/2.jpg"
+        "profilePic": "https://randomuser.me/api/portraits/women/12.jpg"
+    },
+    
+    {
+        "name": "Customer Service +1 844 744 6241 H.",
+        "message": "I called this number and got help instantly!",
+        "profilePic": "https://randomuser.me/api/portraits/women/22.jpg"
+    },
+    
+    {
+        "name": "Customer Service +1 844 744 6241 H.",
+        "message": "I called this number and got help instantly!",
+        "profilePic": "https://randomuser.me/api/portraits/women/42.jpg"
+    },
+    
+    {
+        "name": "Customer Service +1 844 744 6241 H.",
+        "message": "I called this number and got help instantly!",
+        "profilePic": "https://randomuser.me/api/portraits/women/13.jpg"
     },
     {
         "name": "Linda F.",
         "message": "I need help with my Peacock subscription.",
-        "profilePic":  "https://randomuser.me/api/portraits/men/2.jpg"
+        "profilePic":  "https://randomuser.me/api/portraits/men/182.jpg"
     },
     {
         "name": "Joan W.",
